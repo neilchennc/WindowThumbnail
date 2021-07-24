@@ -5,3 +5,5 @@ A Windows tool shows other window thumbnail and stay in top-most. This helps you
 ## Demo Video (click to watch)
 
 [![](http://img.youtube.com/vi/TNQNGQ_VO9g/0.jpg)](http://www.youtube.com/watch?v=TNQNGQ_VO9g "YouTube")
+
+[巴哈姆特文章](https://forum.gamer.com.tw/C.php?bsn=19017&snA=55532)
